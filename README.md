@@ -29,7 +29,7 @@ KYB onboarding teams often face delays due to:
 
 As onboarding volumes scale, these issues reduce turnaround speed and create operational bottlenecks.
 
-This project demonstrates how onboarding workflows can be redesigned using:
+This project demonstrates how onboarding workflows can be redesigned into scalable, rule-based STP systems using:
 - Rule-based decision logic  
 - Risk-based prioritisation  
 - Exception-driven processing  
@@ -89,7 +89,8 @@ This reflects how onboarding teams shift from full manual processing to **except
 
 ![Decision Distribution](images/decision_distribution.png)
 
-*Figure: Distribution of onboarding decisions highlighting STP vs manual review segmentation*
+*Figure: Decision outcome distribution (left) highlighting STP vs manual segmentation, and average onboarding delay by workflow stage (right) showing onboarding bottlenecks*
+👉 Majority of customers fall into Auto Approve (~72%), while delays are concentrated in document collection and review stages.
 
 | Metric | Value |
 |------|------|
