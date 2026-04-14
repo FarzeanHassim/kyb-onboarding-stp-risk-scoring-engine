@@ -90,6 +90,7 @@ This reflects how onboarding teams shift from full manual processing to **except
 ![Decision Distribution](images/decision_distribution.png)
 
 *Figure: Decision outcome distribution (left) highlighting STP vs manual segmentation, and average onboarding delay by workflow stage (right) showing onboarding bottlenecks*
+
 👉 Majority of customers fall into Auto Approve (~72%), while delays are concentrated in document collection and review stages.
 
 | Metric | Value |
@@ -99,7 +100,7 @@ This reflects how onboarding teams shift from full manual processing to **except
 | High Risk Review | ~2.83% |
 | Reject Rate | ~1.33% |
 
-👉 This demonstrates strong potential to reduce manual workload and improve onboarding efficiency.
+👉 Demonstrates strong potential to reduce manual workload and significantly improve onboarding efficiency through STP.
 
 ---
 
