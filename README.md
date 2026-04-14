@@ -16,6 +16,8 @@ Using Python and SQL, the project combines:
 
 to identify onboarding bottlenecks and propose automation opportunities.
 
+This project is designed for fintech onboarding, KYB operations, and risk/product teams.
+
 ---
 
 ## 🧠 Business Problem
