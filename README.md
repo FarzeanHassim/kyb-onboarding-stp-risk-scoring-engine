@@ -87,6 +87,10 @@ This reflects how onboarding teams shift from full manual processing to **except
 
 ## 📊 STP Performance Metrics
 
+![Decision Distribution](images/decision_distribution.png)
+
+*Figure: Distribution of onboarding decisions highlighting STP vs manual review segmentation*
+
 | Metric | Value |
 |------|------|
 | STP Rate | ~71.67% |
