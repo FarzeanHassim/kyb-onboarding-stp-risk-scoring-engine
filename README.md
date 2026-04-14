@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Overview
-This project simulates a **fintech KYB onboarding workflow** and demonstrates how manual onboarding processes can be transformed into a **scalable, data-driven Straight-Through Processing (STP) model**.
+This project simulates a fintech KYB onboarding workflow and demonstrates how manual onboarding processes can be transformed into a scalable, data-driven STP system.
 
 Using Python and SQL, the project combines:
 - Risk scoring  
@@ -94,8 +94,8 @@ This reflects how onboarding teams shift from full manual processing to **except
 
 | Metric | Value |
 |------|------|
-| STP Rate | ~71.67% |
-| Manual Review | ~24.17% |
+| STP Rate | **~71.67%** |
+| Manual Review | **~24.17%** |
 | High Risk Review | ~2.83% |
 | Reject Rate | ~1.33% |
 
