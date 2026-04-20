@@ -16,7 +16,9 @@ Using Python and SQL, the project combines:
 
 to identify onboarding bottlenecks and propose automation opportunities.
 
-This project is designed for fintech onboarding, KYB operations, and risk/product teams. & complements my work on applying GenAI and Agentic AI concepts to AML and onboarding operating models.
+This project forms the execution layer within a broader onboarding operating model, which can be extended with AI-assisted decisioning, document intelligence, and workflow automation.
+
+This project is designed for fintech onboarding, KYB operations, and risk/product teams. It complements my work on applying GenAI and Agentic AI concepts to AML and onboarding operating models.
 
 ---
 
@@ -152,6 +154,20 @@ Measured:
 
 ---
 
+## 🔄 Evolution Towards AI-Enabled Onboarding
+While this system uses rule-based logic for explainability and control, it is designed to evolve into an AI-enabled onboarding platform.
+
+Potential enhancements include:
+
+- LLM-based document validation and summarisation  
+- AI-assisted UBO structure interpretation  
+- Intelligent explanation of onboarding decisions  
+- Agentic workflows to automate multi-step onboarding checks  
+- Predictive models to prioritise high-risk onboarding cases  
+
+This reflects the shift from rule-based onboarding toward hybrid systems combining rules, data, and AI-assisted decisioning.
+
+---
 ## 🧠 Business Impact
 
 In a fully manual onboarding model:
@@ -161,6 +177,8 @@ With rule-based decisioning:
 - ~70% of cases can be automated  
 - Teams can focus on high-risk exceptions  
 - Overall onboarding time is reduced  
+
+Acts as a foundation for scalable, AI-enabled onboarding platforms in modern fintech and banking environments
 
 ---
 
