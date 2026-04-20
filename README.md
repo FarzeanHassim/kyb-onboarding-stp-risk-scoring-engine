@@ -16,7 +16,7 @@ Using Python and SQL, the project combines:
 
 to identify onboarding bottlenecks and propose automation opportunities.
 
-This project is designed for fintech onboarding, KYB operations, and risk/product teams.
+This project is designed for fintech onboarding, KYB operations, and risk/product teams. & complements my work on applying GenAI and Agentic AI concepts to AML and onboarding operating models.
 
 ---
 
@@ -186,3 +186,19 @@ def decision_engine(row):
         return "Manual Review"
     else:
         return "Auto Approve"
+
+---
+
+## 🤖 AI Integration Perspective
+
+This project demonstrates how rule-based onboarding systems can evolve into AI-enabled decisioning platforms.
+
+Potential AI enhancements include:
+
+- LLM-based document validation and summarisation  
+- AI-assisted UBO structure interpretation  
+- Intelligent explanation of onboarding decisions  
+- Agentic workflows to automate multi-step onboarding checks  
+- AI-driven exception handling and prioritisation  
+
+This aligns with modern fintech and banking environments where onboarding is increasingly designed as a hybrid system combining rules, data, and AI-assisted decisioning.
