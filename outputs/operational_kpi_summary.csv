@@ -1,0 +1,7 @@
+KPI,Value,Interpretation
+Current STP Rate,19.17%,Share of customers currently eligible for automated approval
+Potential STP Rate,43.33%,Maximum STP rate if all low-risk document exceptions are resolved
+Document-Driven Exception Share,90.72%,Share of exception workload caused by document-related friction
+Current Handling Effort,85.42 hours,Estimated current operational handling effort
+Maximum Estimated Capacity Saved,19.33 hours,Estimated handling time saved under full low-risk document-resolution scenario
+Maximum Handling-Time Reduction,22.63%,Estimated reduction in total handling effort under full-resolution scenario

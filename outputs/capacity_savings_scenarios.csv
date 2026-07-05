@@ -1,0 +1,6 @@
+document_resolution_scenario,resolved_low_risk_exceptions,total_minutes_saved,total_hours_saved,projected_total_handling_hours,handling_time_reduction_pct
+Current State,0,0,0.0,85.42,0.0
+25%,7,280,4.67,80.75,5.47
+50%,14,560,9.33,76.08,10.92
+75%,22,880,14.67,70.75,17.17
+100%,29,1160,19.33,66.08,22.63

@@ -1,0 +1,6 @@
+document_resolution_scenario,resolved_low_risk_exceptions,projected_stp_customers,projected_stp_rate,remaining_exception_cases
+Current State,0,23,19.17,97
+25%,7,30,25.0,90
+50%,14,37,30.83,83
+75%,22,45,37.5,75
+100%,29,52,43.33,68
