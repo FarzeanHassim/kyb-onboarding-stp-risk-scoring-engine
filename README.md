@@ -326,9 +326,13 @@ The project models four future-state scenarios based on the proportion of low-ri
 | 75% resolved                 |             37.50% |
 | 100% resolved                |             43.33% |
 
-The scenario analysis demonstrates that operational improvement does not require the complete elimination of document friction.
+![Projected STP rate under document automation scenarios](images/stp_document_automation_scenarios.png)
 
-Incremental improvements can progressively:
+**Figure: Projected STP rate under document automation scenarios**
+
+Progressively resolving low-risk document exceptions could increase the projected STP rate from **19.17%** in the current state to **43.33%** under the full-resolution scenario.
+
+The scenario analysis demonstrates that operational improvement does not require the complete elimination of document friction. Incremental improvements can progressively:
 
 * Increase STP
 * Reduce exception volumes
