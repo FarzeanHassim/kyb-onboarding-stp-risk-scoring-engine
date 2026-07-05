@@ -1,121 +1,121 @@
 customer_id,company_name,country,industry,entity_type,annual_revenue_usd,expected_monthly_txn_usd,pep_flag,sanctions_flag,ownership_complexity,source_of_funds_risk,created_date,num_flags,decision
-CUST001,Company_001,Hong Kong,E-commerce,Partnership,2104301,122026,0,0,Medium,Low,2026-03-27,0,Auto Approve
-CUST002,Company_002,Hong Kong,Software,Private Limited Company,3589336,21663,0,0,Low,Medium,2026-04-10,1,Auto Approve
-CUST003,Company_003,Hong Kong,Consulting,LLC,4289227,320631,0,0,Low,High,2026-04-10,2,Auto Approve
-CUST004,Company_004,Indonesia,Software,Sole Proprietorship,1899189,240514,0,0,Low,Low,2026-01-28,3,Manual Review
-CUST005,Company_005,Philippines,E-commerce,LLC,3595146,183389,0,0,Low,Low,2026-03-09,2,Auto Approve
-CUST006,Company_006,Malaysia,Consulting,Partnership,907401,53625,0,0,Low,Low,2026-02-24,1,Auto Approve
-CUST007,Company_007,Hong Kong,Digital Assets,Partnership,2268961,428167,0,0,Low,Medium,2026-04-08,2,Auto Approve
-CUST008,Company_008,Cayman Islands,Software,Private Limited Company,3225376,46313,0,0,High,Low,2026-02-02,3,Manual Review
-CUST009,Company_009,Philippines,Investment Holding,Partnership,4893180,105814,0,0,High,High,2026-01-13,2,Auto Approve
-CUST010,Company_010,Hong Kong,E-commerce,LLC,2477562,46833,0,0,Medium,Low,2025-12-25,1,Auto Approve
-CUST011,Company_011,Indonesia,Fintech,Sole Proprietorship,2381811,242717,0,0,Low,High,2026-01-22,2,Auto Approve
-CUST012,Company_012,United Arab Emirates,Trading,Partnership,3030226,114842,0,0,Low,Low,2026-01-18,1,Auto Approve
-CUST013,Company_013,Philippines,Fintech,LLC,4530690,387272,0,0,High,Medium,2026-03-13,3,Manual Review
-CUST014,Company_014,Malaysia,Logistics,Sole Proprietorship,2314486,490171,1,0,Medium,High,2026-01-22,2,Auto Approve
-CUST015,Company_015,Indonesia,Digital Assets,Private Limited Company,1971394,435861,0,0,Low,Medium,2026-04-09,3,Manual Review
-CUST016,Company_016,United Arab Emirates,Payments,Partnership,605230,115615,0,0,Medium,Low,2025-12-18,1,Auto Approve
-CUST017,Company_017,United Arab Emirates,Consulting,Sole Proprietorship,3368800,468828,0,0,Low,Medium,2025-12-17,2,Auto Approve
-CUST018,Company_018,Cayman Islands,Trading,Partnership,1221304,134303,0,1,High,Low,2026-01-08,3,Reject
-CUST019,Company_019,Philippines,Investment Holding,Sole Proprietorship,4945028,214400,0,0,High,High,2026-02-26,2,Auto Approve
-CUST020,Company_020,Indonesia,Trading,Sole Proprietorship,812603,401247,0,0,Low,Low,2026-04-07,1,Auto Approve
-CUST021,Company_021,Hong Kong,Trading,LLC,3591334,317690,0,0,Low,Low,2026-04-05,2,Auto Approve
-CUST022,Company_022,British Virgin Islands,Payments,Sole Proprietorship,4488532,136813,0,0,High,Medium,2026-02-02,3,Manual Review
-CUST023,Company_023,Singapore,Fintech,Partnership,2903598,63485,0,0,Low,Medium,2026-03-07,1,Auto Approve
-CUST024,Company_024,British Virgin Islands,Trading,Sole Proprietorship,77223,383584,0,0,High,Medium,2025-12-22,3,Manual Review
-CUST025,Company_025,Philippines,Software,LLC,4308742,483479,0,0,Low,Low,2026-03-31,2,Auto Approve
-CUST026,Company_026,Philippines,Software,LLC,1332108,201038,0,0,Low,Low,2026-01-06,1,Auto Approve
-CUST027,Company_027,Malaysia,Software,Private Limited Company,2769218,261170,1,0,Low,Medium,2026-04-11,2,Auto Approve
-CUST028,Company_028,Hong Kong,Digital Assets,Partnership,2058671,35369,0,0,Medium,Low,2026-03-14,1,Auto Approve
-CUST029,Company_029,Hong Kong,Fintech,Sole Proprietorship,630596,403774,1,0,Medium,Medium,2026-02-04,2,Auto Approve
-CUST030,Company_030,Malaysia,Trading,Sole Proprietorship,4662086,91574,0,0,High,Low,2026-03-11,2,Auto Approve
-CUST031,Company_031,British Virgin Islands,Consulting,LLC,2664865,214186,0,0,Medium,Low,2026-01-18,3,Manual Review
-CUST032,Company_032,United Arab Emirates,Logistics,Sole Proprietorship,1065056,134973,0,0,Medium,Medium,2026-03-16,1,Auto Approve
-CUST033,Company_033,Hong Kong,Digital Assets,Private Limited Company,4985091,295414,0,0,Medium,Low,2026-03-15,2,Auto Approve
-CUST034,Company_034,Indonesia,E-commerce,Private Limited Company,543868,125031,0,0,High,Low,2026-04-05,2,Auto Approve
-CUST035,Company_035,Singapore,Digital Assets,Private Limited Company,4363054,129782,0,0,Medium,High,2026-03-09,0,Auto Approve
-CUST036,Company_036,Cayman Islands,Consulting,LLC,4840256,307100,1,0,Medium,Medium,2026-02-12,3,Manual Review
-CUST037,Company_037,Indonesia,Logistics,Sole Proprietorship,1647274,54453,0,0,Medium,Low,2026-04-01,1,Auto Approve
-CUST038,Company_038,British Virgin Islands,Digital Assets,Sole Proprietorship,3498575,249855,0,0,High,Low,2025-12-24,4,Manual Review
-CUST039,Company_039,Singapore,Fintech,Private Limited Company,3427432,386793,0,0,High,Low,2026-03-01,3,Manual Review
-CUST040,Company_040,Hong Kong,Consulting,LLC,1645587,286168,0,0,Low,Medium,2026-02-15,2,Auto Approve
-CUST041,Company_041,Malaysia,Payments,LLC,2386606,247550,0,0,Medium,Low,2026-03-13,2,Auto Approve
-CUST042,Company_042,Hong Kong,Logistics,Private Limited Company,474365,346911,0,0,Low,Low,2026-02-03,2,Auto Approve
-CUST043,Company_043,Singapore,Fintech,LLC,1445118,218078,0,0,Medium,Low,2026-02-10,1,Auto Approve
-CUST044,Company_044,Cayman Islands,Consulting,Sole Proprietorship,541869,91317,0,0,High,Low,2026-02-24,3,Manual Review
-CUST045,Company_045,Singapore,Payments,Partnership,3866886,154552,0,0,High,Low,2026-02-18,3,Manual Review
-CUST046,Company_046,Cayman Islands,Trading,LLC,2538965,119137,0,0,High,High,2026-04-06,2,Auto Approve
-CUST047,Company_047,Singapore,Digital Assets,Private Limited Company,470624,311277,0,0,High,Medium,2026-02-11,3,Manual Review
-CUST048,Company_048,Malaysia,E-commerce,Private Limited Company,1608812,40924,0,0,Low,Medium,2026-01-27,1,Auto Approve
-CUST049,Company_049,Hong Kong,Consulting,Sole Proprietorship,1055681,498667,1,0,Low,Low,2025-12-21,3,Manual Review
-CUST050,Company_050,Indonesia,Investment Holding,Private Limited Company,737726,224794,0,0,High,High,2026-01-19,3,Manual Review
-CUST051,Company_051,United Arab Emirates,Gaming,LLC,2685565,130140,0,0,Low,High,2026-03-11,0,Auto Approve
-CUST052,Company_052,British Virgin Islands,Trading,Partnership,3885477,170767,0,0,Low,Medium,2025-12-16,2,Auto Approve
-CUST053,Company_053,Hong Kong,E-commerce,Sole Proprietorship,4772732,57418,0,0,Medium,Medium,2026-04-04,1,Auto Approve
-CUST054,Company_054,Indonesia,Software,Partnership,1161126,494296,0,0,Medium,Low,2026-02-28,2,Auto Approve
-CUST055,Company_055,Hong Kong,Consulting,Partnership,2440647,87704,0,0,Medium,Medium,2026-02-16,1,Auto Approve
-CUST056,Company_056,Philippines,Investment Holding,Private Limited Company,4702341,161960,0,0,Low,Medium,2025-12-15,2,Auto Approve
-CUST057,Company_057,Hong Kong,Trading,Partnership,1018285,471465,0,0,High,Low,2026-03-31,3,Manual Review
-CUST058,Company_058,Malaysia,Gaming,Partnership,1816889,381235,0,0,High,Medium,2026-03-01,3,Manual Review
-CUST059,Company_059,Indonesia,Gaming,Sole Proprietorship,2156557,479657,0,0,Low,High,2025-12-18,2,Auto Approve
-CUST060,Company_060,Singapore,Fintech,Sole Proprietorship,2370961,28114,0,0,Medium,Low,2026-04-13,0,Auto Approve
-CUST061,Company_061,United Arab Emirates,Trading,Partnership,1405447,393618,1,0,High,Low,2026-02-16,3,High Risk Review
-CUST062,Company_062,British Virgin Islands,Software,Private Limited Company,988466,44449,0,0,Medium,High,2025-12-21,2,Auto Approve
-CUST063,Company_063,Malaysia,Software,Private Limited Company,3147208,310402,1,0,Low,Low,2026-02-02,2,Auto Approve
-CUST064,Company_064,Malaysia,Payments,LLC,400885,166616,0,0,Low,Low,2026-02-26,3,Manual Review
-CUST065,Company_065,Singapore,Digital Assets,LLC,2143207,354665,1,0,Medium,Low,2026-03-31,2,Auto Approve
-CUST066,Company_066,United Arab Emirates,Software,Sole Proprietorship,1346487,490366,0,1,Low,Low,2025-12-15,1,Reject
-CUST067,Company_067,Indonesia,Trading,LLC,3508576,17995,0,0,Medium,Medium,2026-03-22,0,Auto Approve
-CUST068,Company_068,United Arab Emirates,Payments,LLC,2288128,88465,0,0,Medium,Medium,2026-01-03,1,Auto Approve
-CUST069,Company_069,Hong Kong,Payments,Private Limited Company,3998434,121619,0,0,Medium,Low,2026-03-19,2,Auto Approve
-CUST070,Company_070,Cayman Islands,Digital Assets,Partnership,1959209,121876,0,0,High,High,2026-04-10,3,Manual Review
-CUST071,Company_071,Indonesia,Payments,Partnership,2387091,458169,0,0,Low,Low,2026-04-05,2,Auto Approve
-CUST072,Company_072,Philippines,Digital Assets,Sole Proprietorship,4548103,178617,0,0,Medium,Medium,2026-04-10,1,Auto Approve
-CUST073,Company_073,Hong Kong,Gaming,LLC,4920339,144180,0,0,Low,Low,2026-04-09,0,Auto Approve
-CUST074,Company_074,Hong Kong,Investment Holding,Sole Proprietorship,2949833,386967,0,0,Low,Medium,2026-01-03,1,Auto Approve
-CUST075,Company_075,United Arab Emirates,Payments,Private Limited Company,3281253,476599,0,0,Medium,Low,2026-01-30,2,Auto Approve
-CUST076,Company_076,Indonesia,Gaming,Private Limited Company,3707915,5886,0,0,Medium,Medium,2026-02-06,1,Auto Approve
-CUST077,Company_077,Indonesia,Digital Assets,Sole Proprietorship,636982,353251,0,0,Medium,Medium,2025-12-17,2,Auto Approve
-CUST078,Company_078,United Arab Emirates,Investment Holding,Partnership,1095432,382358,0,0,Medium,Low,2025-12-19,2,Auto Approve
-CUST079,Company_079,Philippines,Software,Partnership,3475848,176013,0,0,Medium,Medium,2026-02-21,2,Auto Approve
-CUST080,Company_080,Philippines,Software,LLC,1659271,225434,0,0,Low,Low,2026-01-18,1,Auto Approve
-CUST081,Company_081,British Virgin Islands,Trading,Partnership,3456405,292276,0,0,High,Low,2025-12-28,5,Manual Review
-CUST082,Company_082,Singapore,Gaming,Partnership,1813140,230385,1,0,Medium,Medium,2026-01-03,3,Manual Review
-CUST083,Company_083,United Arab Emirates,Logistics,Sole Proprietorship,3759105,359223,0,0,Low,Medium,2026-03-17,2,Auto Approve
-CUST084,Company_084,Cayman Islands,Trading,Private Limited Company,2430572,275245,0,0,Low,Low,2026-01-19,2,Auto Approve
-CUST085,Company_085,United Arab Emirates,Fintech,LLC,2653987,122776,0,0,Low,Low,2025-12-31,1,Auto Approve
-CUST086,Company_086,Indonesia,Trading,Private Limited Company,437668,133368,0,0,Low,Low,2026-02-12,0,Auto Approve
-CUST087,Company_087,Hong Kong,Logistics,Sole Proprietorship,4879077,106940,0,0,Medium,Low,2026-01-12,1,Auto Approve
-CUST088,Company_088,British Virgin Islands,Logistics,Sole Proprietorship,2096689,82369,0,0,Medium,High,2026-01-20,1,Auto Approve
-CUST089,Company_089,Singapore,Fintech,Sole Proprietorship,1885772,97215,0,0,Low,Medium,2026-01-01,1,Auto Approve
-CUST090,Company_090,Cayman Islands,E-commerce,LLC,1068029,244317,0,0,High,Medium,2026-03-27,4,Manual Review
-CUST091,Company_091,Cayman Islands,Software,Partnership,3762574,326206,0,0,Medium,Medium,2025-12-30,2,Auto Approve
-CUST092,Company_092,British Virgin Islands,Software,Sole Proprietorship,1385113,394889,1,0,High,High,2025-12-24,3,High Risk Review
-CUST093,Company_093,Cayman Islands,Logistics,Partnership,2123997,445330,0,0,Low,Low,2026-01-22,4,Manual Review
-CUST094,Company_094,Philippines,Software,Sole Proprietorship,2056939,148968,0,0,Low,Low,2026-02-16,1,Auto Approve
-CUST095,Company_095,Hong Kong,Gaming,LLC,2329311,181080,0,0,High,Low,2026-03-04,2,Auto Approve
-CUST096,Company_096,Hong Kong,Trading,LLC,1989961,205820,0,0,Medium,Medium,2026-01-15,2,Auto Approve
-CUST097,Company_097,Malaysia,Consulting,Private Limited Company,3530164,218699,0,0,Low,Low,2026-03-02,2,Auto Approve
-CUST098,Company_098,Cayman Islands,Payments,Private Limited Company,1785052,441674,0,0,High,Medium,2026-02-19,4,Manual Review
-CUST099,Company_099,British Virgin Islands,Investment Holding,Private Limited Company,4879240,204429,0,0,Medium,High,2026-02-11,2,Auto Approve
-CUST100,Company_100,Singapore,Digital Assets,Partnership,3321445,452452,0,0,High,High,2025-12-20,2,Auto Approve
-CUST101,Company_101,British Virgin Islands,Software,LLC,4145565,120040,0,0,Medium,High,2026-03-10,3,Manual Review
-CUST102,Company_102,British Virgin Islands,Logistics,Private Limited Company,3311970,181228,0,0,Medium,Low,2026-01-18,4,Manual Review
-CUST103,Company_103,British Virgin Islands,Trading,Sole Proprietorship,1120619,331241,1,0,Medium,High,2026-02-04,3,Manual Review
-CUST104,Company_104,Singapore,Payments,Private Limited Company,754202,341985,1,0,Medium,Low,2026-02-18,2,Auto Approve
-CUST105,Company_105,Malaysia,Logistics,LLC,471818,141396,0,0,Medium,Medium,2026-02-24,1,Auto Approve
-CUST106,Company_106,United Arab Emirates,Consulting,Sole Proprietorship,2791781,181947,0,0,Low,Low,2026-01-06,2,Auto Approve
-CUST107,Company_107,British Virgin Islands,Gaming,Sole Proprietorship,2166206,442733,0,0,Medium,High,2026-04-03,2,Auto Approve
-CUST108,Company_108,Cayman Islands,E-commerce,Private Limited Company,2985680,122556,0,0,Low,High,2026-01-20,2,Auto Approve
-CUST109,Company_109,Hong Kong,E-commerce,Private Limited Company,2124362,109522,0,0,Low,Medium,2025-12-27,1,Auto Approve
-CUST110,Company_110,Singapore,Investment Holding,LLC,2051060,71176,0,0,High,Low,2026-02-12,1,Auto Approve
-CUST111,Company_111,Hong Kong,Investment Holding,LLC,3950987,371721,0,1,Medium,Medium,2026-03-12,2,Reject
-CUST112,Company_112,United Arab Emirates,Trading,Private Limited Company,1423767,168073,0,0,High,Medium,2026-03-31,3,Manual Review
-CUST113,Company_113,Singapore,Gaming,Sole Proprietorship,3377378,498601,0,0,High,Medium,2026-01-12,2,Auto Approve
-CUST114,Company_114,Indonesia,Fintech,LLC,904810,370529,0,0,Low,Low,2026-01-05,2,Auto Approve
-CUST115,Company_115,Philippines,Investment Holding,Private Limited Company,4797386,415326,0,0,Low,Low,2026-04-08,2,Auto Approve
-CUST116,Company_116,United Arab Emirates,Software,Sole Proprietorship,3158573,41153,0,0,Medium,Low,2026-02-08,1,Auto Approve
-CUST117,Company_117,United Arab Emirates,E-commerce,Sole Proprietorship,4162109,60332,1,0,Low,Medium,2026-02-17,1,Auto Approve
-CUST118,Company_118,United Arab Emirates,Logistics,LLC,3703130,97346,0,0,Low,High,2026-01-10,0,Auto Approve
-CUST119,Company_119,Philippines,Investment Holding,Sole Proprietorship,3949643,233366,0,0,Medium,High,2025-12-29,1,Auto Approve
-CUST120,Company_120,Philippines,Digital Assets,LLC,776981,151238,0,0,High,Medium,2025-12-22,3,Manual Review
+CUST001,Company_001,Hong Kong,E-commerce,Partnership,2104301,122026,0,0,Low,High,2026-06-17,1,Auto Approve
+CUST002,Company_002,Hong Kong,Software,Private Limited Company,3589336,21663,0,0,Low,Low,2026-07-01,1,Auto Approve
+CUST003,Company_003,Hong Kong,Consulting,LLC,4289227,320631,0,0,Medium,Medium,2026-07-01,1,Auto Approve
+CUST004,Company_004,Indonesia,Software,Sole Proprietorship,1899189,240514,0,0,Medium,Low,2026-04-20,1,Auto Approve
+CUST005,Company_005,Philippines,E-commerce,LLC,3595146,183389,0,0,Low,Low,2026-05-30,0,Auto Approve
+CUST006,Company_006,Malaysia,Consulting,Partnership,907401,53625,0,0,Medium,Low,2026-05-17,1,Auto Approve
+CUST007,Company_007,Hong Kong,Digital Assets,Partnership,2268961,428167,0,0,Medium,High,2026-06-29,3,Manual Review
+CUST008,Company_008,Cayman Islands,Software,Private Limited Company,3225376,46313,0,0,Medium,Low,2026-04-25,2,Auto Approve
+CUST009,Company_009,Philippines,Investment Holding,Partnership,4893180,105814,1,0,Low,High,2026-04-05,3,Manual Review
+CUST010,Company_010,Hong Kong,E-commerce,LLC,2477562,46833,0,0,Low,Low,2026-03-17,1,Auto Approve
+CUST011,Company_011,Indonesia,Fintech,Sole Proprietorship,2381811,242717,0,0,Low,Low,2026-04-14,1,Auto Approve
+CUST012,Company_012,United Arab Emirates,Trading,Partnership,3030226,114842,0,0,Low,Medium,2026-04-10,2,Auto Approve
+CUST013,Company_013,Philippines,Fintech,LLC,4530690,387272,1,0,Medium,Low,2026-06-03,3,Manual Review
+CUST014,Company_014,Malaysia,Logistics,Sole Proprietorship,2314486,490171,0,0,High,Medium,2026-04-14,3,Manual Review
+CUST015,Company_015,Indonesia,Digital Assets,Private Limited Company,1971394,435861,0,0,Low,Low,2026-06-30,1,Auto Approve
+CUST016,Company_016,United Arab Emirates,Payments,Partnership,605230,115615,0,0,Low,Low,2026-03-10,1,Auto Approve
+CUST017,Company_017,United Arab Emirates,Consulting,Sole Proprietorship,3368800,468828,0,0,Low,Low,2026-03-09,2,Auto Approve
+CUST018,Company_018,Cayman Islands,Trading,Partnership,1221304,134303,0,0,Low,High,2026-03-31,3,Manual Review
+CUST019,Company_019,Philippines,Investment Holding,Sole Proprietorship,4945028,214400,0,0,Low,High,2026-05-19,1,Auto Approve
+CUST020,Company_020,Indonesia,Trading,Sole Proprietorship,812603,401247,0,0,Medium,Low,2026-06-28,2,Auto Approve
+CUST021,Company_021,Hong Kong,Trading,LLC,3591334,317690,0,0,High,Medium,2026-06-26,3,Manual Review
+CUST022,Company_022,British Virgin Islands,Payments,Sole Proprietorship,4488532,136813,0,0,Medium,Medium,2026-04-25,2,Auto Approve
+CUST023,Company_023,Singapore,Fintech,Partnership,2903598,63485,0,0,High,Low,2026-05-28,3,Manual Review
+CUST024,Company_024,British Virgin Islands,Trading,Sole Proprietorship,77223,383584,0,0,High,Medium,2026-03-14,4,Manual Review
+CUST025,Company_025,Philippines,Software,LLC,4308742,483479,0,0,Medium,Low,2026-06-21,3,Manual Review
+CUST026,Company_026,Philippines,Software,LLC,1332108,201038,0,0,Low,Medium,2026-03-29,0,Auto Approve
+CUST027,Company_027,Malaysia,Software,Private Limited Company,2769218,261170,0,0,High,Low,2026-07-02,2,Auto Approve
+CUST028,Company_028,Hong Kong,Digital Assets,Partnership,2058671,35369,0,0,Medium,Low,2026-06-04,1,Auto Approve
+CUST029,Company_029,Hong Kong,Fintech,Sole Proprietorship,630596,403774,0,0,High,Medium,2026-04-27,2,Auto Approve
+CUST030,Company_030,Malaysia,Trading,Sole Proprietorship,4662086,91574,0,0,Medium,Low,2026-06-01,1,Auto Approve
+CUST031,Company_031,British Virgin Islands,Consulting,LLC,2664865,214186,0,0,High,High,2026-04-10,4,Manual Review
+CUST032,Company_032,United Arab Emirates,Logistics,Sole Proprietorship,1065056,134973,0,0,Low,Low,2026-06-06,0,Auto Approve
+CUST033,Company_033,Hong Kong,Digital Assets,Private Limited Company,4985091,295414,0,0,Low,Medium,2026-06-05,2,Auto Approve
+CUST034,Company_034,Indonesia,E-commerce,Private Limited Company,543868,125031,0,0,Low,Low,2026-06-26,0,Auto Approve
+CUST035,Company_035,Singapore,Digital Assets,Private Limited Company,4363054,129782,0,1,Medium,High,2026-05-30,3,Reject
+CUST036,Company_036,Cayman Islands,Consulting,LLC,4840256,307100,0,0,High,Low,2026-05-05,5,Manual Review
+CUST037,Company_037,Indonesia,Logistics,Sole Proprietorship,1647274,54453,0,0,Low,Low,2026-06-22,1,Auto Approve
+CUST038,Company_038,British Virgin Islands,Digital Assets,Sole Proprietorship,3498575,249855,1,0,Low,Low,2026-03-16,3,Manual Review
+CUST039,Company_039,Singapore,Fintech,Private Limited Company,3427432,386793,1,0,Low,Low,2026-05-22,3,Manual Review
+CUST040,Company_040,Hong Kong,Consulting,LLC,1645587,286168,0,0,Medium,Medium,2026-05-08,1,Auto Approve
+CUST041,Company_041,Malaysia,Payments,LLC,2386606,247550,0,0,Low,Medium,2026-06-03,1,Auto Approve
+CUST042,Company_042,Hong Kong,Logistics,Private Limited Company,474365,346911,0,0,Low,Medium,2026-04-26,1,Auto Approve
+CUST043,Company_043,Singapore,Fintech,LLC,1445118,218078,0,0,Low,Low,2026-05-03,1,Auto Approve
+CUST044,Company_044,Cayman Islands,Consulting,Sole Proprietorship,541869,91317,0,0,Medium,Low,2026-05-17,2,Auto Approve
+CUST045,Company_045,Singapore,Payments,Partnership,3866886,154552,0,0,Medium,Low,2026-05-11,1,Auto Approve
+CUST046,Company_046,Cayman Islands,Trading,LLC,2538965,119137,1,0,Medium,Low,2026-06-27,3,Manual Review
+CUST047,Company_047,Singapore,Digital Assets,Private Limited Company,470624,311277,0,0,Medium,Medium,2026-05-04,1,Auto Approve
+CUST048,Company_048,Malaysia,E-commerce,Private Limited Company,1608812,40924,0,0,Medium,Low,2026-04-19,2,Auto Approve
+CUST049,Company_049,Hong Kong,Consulting,Sole Proprietorship,1055681,498667,0,0,High,Medium,2026-03-13,3,Manual Review
+CUST050,Company_050,Indonesia,Investment Holding,Private Limited Company,737726,224794,1,0,High,High,2026-04-11,4,High Risk Review
+CUST051,Company_051,United Arab Emirates,Gaming,LLC,2685565,130140,0,0,High,Low,2026-06-01,2,Auto Approve
+CUST052,Company_052,British Virgin Islands,Trading,Partnership,3885477,170767,0,0,High,Low,2026-03-08,2,Auto Approve
+CUST053,Company_053,Hong Kong,E-commerce,Sole Proprietorship,4772732,57418,0,0,Low,Low,2026-06-25,0,Auto Approve
+CUST054,Company_054,Indonesia,Software,Partnership,1161126,494296,0,0,Medium,Low,2026-05-21,2,Auto Approve
+CUST055,Company_055,Hong Kong,Consulting,Partnership,2440647,87704,0,0,Low,Medium,2026-05-09,1,Auto Approve
+CUST056,Company_056,Philippines,Investment Holding,Private Limited Company,4702341,161960,0,0,High,Medium,2026-03-07,1,Auto Approve
+CUST057,Company_057,Hong Kong,Trading,Partnership,1018285,471465,1,0,Low,Low,2026-06-21,4,Manual Review
+CUST058,Company_058,Malaysia,Gaming,Partnership,1816889,381235,0,0,High,Medium,2026-05-22,2,Auto Approve
+CUST059,Company_059,Indonesia,Gaming,Sole Proprietorship,2156557,479657,0,0,Medium,Medium,2026-03-10,2,Auto Approve
+CUST060,Company_060,Singapore,Fintech,Sole Proprietorship,2370961,28114,0,0,Low,Low,2026-07-04,1,Auto Approve
+CUST061,Company_061,United Arab Emirates,Trading,Partnership,1405447,393618,0,0,High,High,2026-05-09,4,Manual Review
+CUST062,Company_062,British Virgin Islands,Software,Private Limited Company,988466,44449,0,0,Low,High,2026-03-13,3,Manual Review
+CUST063,Company_063,Malaysia,Software,Private Limited Company,3147208,310402,0,0,High,Medium,2026-04-25,3,Manual Review
+CUST064,Company_064,Malaysia,Payments,LLC,400885,166616,0,0,High,Low,2026-05-19,2,Auto Approve
+CUST065,Company_065,Singapore,Digital Assets,LLC,2143207,354665,0,0,High,Medium,2026-06-21,3,Manual Review
+CUST066,Company_066,United Arab Emirates,Software,Sole Proprietorship,1346487,490366,0,0,Medium,High,2026-03-07,3,Manual Review
+CUST067,Company_067,Indonesia,Trading,LLC,3508576,17995,0,0,High,Medium,2026-06-12,2,Auto Approve
+CUST068,Company_068,United Arab Emirates,Payments,LLC,2288128,88465,0,0,Low,Low,2026-03-26,1,Auto Approve
+CUST069,Company_069,Hong Kong,Payments,Private Limited Company,3998434,121619,0,0,High,High,2026-06-09,3,Manual Review
+CUST070,Company_070,Cayman Islands,Digital Assets,Partnership,1959209,121876,0,0,High,Medium,2026-07-01,3,Manual Review
+CUST071,Company_071,Indonesia,Payments,Partnership,2387091,458169,0,0,High,Low,2026-06-26,3,Manual Review
+CUST072,Company_072,Philippines,Digital Assets,Sole Proprietorship,4548103,178617,0,0,Medium,Low,2026-07-01,1,Auto Approve
+CUST073,Company_073,Hong Kong,Gaming,LLC,4920339,144180,0,0,Medium,Medium,2026-06-30,1,Auto Approve
+CUST074,Company_074,Hong Kong,Investment Holding,Sole Proprietorship,2949833,386967,0,0,High,Medium,2026-03-26,3,Manual Review
+CUST075,Company_075,United Arab Emirates,Payments,Private Limited Company,3281253,476599,0,0,Medium,Low,2026-04-22,2,Auto Approve
+CUST076,Company_076,Indonesia,Gaming,Private Limited Company,3707915,5886,0,0,Low,Medium,2026-04-29,1,Auto Approve
+CUST077,Company_077,Indonesia,Digital Assets,Sole Proprietorship,636982,353251,0,0,High,High,2026-03-09,3,Manual Review
+CUST078,Company_078,United Arab Emirates,Investment Holding,Partnership,1095432,382358,0,0,High,Low,2026-03-11,3,Manual Review
+CUST079,Company_079,Philippines,Software,Partnership,3475848,176013,0,0,Low,High,2026-05-14,2,Auto Approve
+CUST080,Company_080,Philippines,Software,LLC,1659271,225434,0,0,Low,Low,2026-04-10,1,Auto Approve
+CUST081,Company_081,British Virgin Islands,Trading,Partnership,3456405,292276,0,0,Medium,High,2026-03-20,4,Manual Review
+CUST082,Company_082,Singapore,Gaming,Partnership,1813140,230385,0,0,High,High,2026-03-26,3,Manual Review
+CUST083,Company_083,United Arab Emirates,Logistics,Sole Proprietorship,3759105,359223,0,0,Low,Low,2026-06-07,1,Auto Approve
+CUST084,Company_084,Cayman Islands,Trading,Private Limited Company,2430572,275245,0,0,Low,Low,2026-04-11,2,Auto Approve
+CUST085,Company_085,United Arab Emirates,Fintech,LLC,2653987,122776,0,0,High,Medium,2026-03-23,2,Auto Approve
+CUST086,Company_086,Indonesia,Trading,Private Limited Company,437668,133368,0,0,Low,Low,2026-05-05,0,Auto Approve
+CUST087,Company_087,Hong Kong,Logistics,Sole Proprietorship,4879077,106940,0,0,Low,Medium,2026-04-04,0,Auto Approve
+CUST088,Company_088,British Virgin Islands,Logistics,Sole Proprietorship,2096689,82369,0,0,Medium,Medium,2026-04-12,2,Auto Approve
+CUST089,Company_089,Singapore,Fintech,Sole Proprietorship,1885772,97215,0,0,Medium,Low,2026-03-24,0,Auto Approve
+CUST090,Company_090,Cayman Islands,E-commerce,LLC,1068029,244317,1,0,Low,Medium,2026-06-17,3,Manual Review
+CUST091,Company_091,Cayman Islands,Software,Partnership,3762574,326206,0,0,Medium,Medium,2026-03-22,3,Manual Review
+CUST092,Company_092,British Virgin Islands,Software,Sole Proprietorship,1385113,394889,1,0,High,Medium,2026-03-16,5,High Risk Review
+CUST093,Company_093,Cayman Islands,Logistics,Partnership,2123997,445330,0,0,Low,Low,2026-04-14,2,Auto Approve
+CUST094,Company_094,Philippines,Software,Sole Proprietorship,2056939,148968,0,0,Low,Medium,2026-05-09,1,Auto Approve
+CUST095,Company_095,Hong Kong,Gaming,LLC,2329311,181080,0,0,High,Low,2026-05-25,3,Manual Review
+CUST096,Company_096,Hong Kong,Trading,LLC,1989961,205820,0,0,Low,Medium,2026-04-07,1,Auto Approve
+CUST097,Company_097,Malaysia,Consulting,Private Limited Company,3530164,218699,0,0,Medium,Medium,2026-05-23,1,Auto Approve
+CUST098,Company_098,Cayman Islands,Payments,Private Limited Company,1785052,441674,1,0,High,High,2026-05-12,5,High Risk Review
+CUST099,Company_099,British Virgin Islands,Investment Holding,Private Limited Company,4879240,204429,0,0,Medium,High,2026-05-04,3,Manual Review
+CUST100,Company_100,Singapore,Digital Assets,Partnership,3321445,452452,0,0,High,Medium,2026-03-12,4,Manual Review
+CUST101,Company_101,British Virgin Islands,Software,LLC,4145565,120040,0,0,Low,High,2026-05-31,4,Manual Review
+CUST102,Company_102,British Virgin Islands,Logistics,Private Limited Company,3311970,181228,0,0,Medium,High,2026-04-10,2,Auto Approve
+CUST103,Company_103,British Virgin Islands,Trading,Sole Proprietorship,1120619,331241,0,0,High,Low,2026-04-27,3,Manual Review
+CUST104,Company_104,Singapore,Payments,Private Limited Company,754202,341985,0,0,High,Low,2026-05-11,3,Manual Review
+CUST105,Company_105,Malaysia,Logistics,LLC,471818,141396,0,0,Low,Low,2026-05-17,0,Auto Approve
+CUST106,Company_106,United Arab Emirates,Consulting,Sole Proprietorship,2791781,181947,0,0,Medium,Medium,2026-03-29,0,Auto Approve
+CUST107,Company_107,British Virgin Islands,Gaming,Sole Proprietorship,2166206,442733,0,0,Low,Medium,2026-06-24,3,Manual Review
+CUST108,Company_108,Cayman Islands,E-commerce,Private Limited Company,2985680,122556,0,0,Medium,Low,2026-04-12,2,Auto Approve
+CUST109,Company_109,Hong Kong,E-commerce,Private Limited Company,2124362,109522,0,0,Medium,Low,2026-03-19,1,Auto Approve
+CUST110,Company_110,Singapore,Investment Holding,LLC,2051060,71176,0,0,Low,High,2026-05-05,2,Auto Approve
+CUST111,Company_111,Hong Kong,Investment Holding,LLC,3950987,371721,0,0,Low,High,2026-06-02,4,Manual Review
+CUST112,Company_112,United Arab Emirates,Trading,Private Limited Company,1423767,168073,1,0,Medium,High,2026-06-21,3,Manual Review
+CUST113,Company_113,Singapore,Gaming,Sole Proprietorship,3377378,498601,0,0,Medium,Low,2026-04-04,1,Auto Approve
+CUST114,Company_114,Indonesia,Fintech,LLC,904810,370529,0,0,Low,High,2026-03-28,3,Manual Review
+CUST115,Company_115,Philippines,Investment Holding,Private Limited Company,4797386,415326,0,0,Low,Medium,2026-06-29,3,Manual Review
+CUST116,Company_116,United Arab Emirates,Software,Sole Proprietorship,3158573,41153,0,0,Low,Medium,2026-05-01,0,Auto Approve
+CUST117,Company_117,United Arab Emirates,E-commerce,Sole Proprietorship,4162109,60332,0,0,High,Low,2026-05-10,2,Auto Approve
+CUST118,Company_118,United Arab Emirates,Logistics,LLC,3703130,97346,0,0,Low,High,2026-04-02,2,Auto Approve
+CUST119,Company_119,Philippines,Investment Holding,Sole Proprietorship,3949643,233366,0,1,Low,High,2026-03-21,3,Reject
+CUST120,Company_120,Philippines,Digital Assets,LLC,776981,151238,1,0,Low,Medium,2026-03-14,2,Auto Approve
