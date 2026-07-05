@@ -326,7 +326,7 @@ The project models four future-state scenarios based on the proportion of low-ri
 | 75% resolved                 |             37.50% |
 | 100% resolved                |             43.33% |
 
-![Projected STP rate under document automation scenarios](images/stp_document_automation_scenarios.png)
+![Projected STP rate under document automation scenarios](images/stp_document_automation_scenarios.jpg)
 
 **Figure: Projected STP rate under document automation scenarios**
 
